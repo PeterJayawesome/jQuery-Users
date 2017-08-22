@@ -1,0 +1,19 @@
+h2{
+  padding-bottom: 40px;
+  border-bottom: 1px solid black;
+}
+form{
+  width: 260px;
+  text-align: right;
+}
+form input{
+  margin-bottom: 10px;
+}
+table{
+  border-collapse: collapse;
+  width: 600px;
+}
+table, th, td{
+  border: 1px solid black;
+  text-align: center;
+}
